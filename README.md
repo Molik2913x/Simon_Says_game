@@ -36,4 +36,4 @@ Open `index.html` in a browser. No build step required.
 - Add a shareable screenshot of your highscore.
 - Add an audio on/off toggle or use better synthesized instrument waveforms.
 
-## License
+
